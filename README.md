@@ -1,2 +1,3 @@
-# Lazybos
-CRUD Web page. Used Tech: HTML,CSS, PHP,SQL
+# database Project
+# 
+## Used Tech: HTML,CSS, JavaScript, PHP,SQL.
