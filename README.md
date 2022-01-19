@@ -1,2 +1,2 @@
 # database Project
-## Used Tech: HTML,CSS, JavaScript, PHP,SQL.
+## Used Tech: HTML,CSS, JavaScript, PHP, SQL.
